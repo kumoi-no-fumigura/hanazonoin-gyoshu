@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hanazonoin-gyoshu",
  "yomi": "はなぞのいんぎょしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集",
+  "era": "鎌倉末〜南北朝時代",
+  "author": "花園院",
+  "desc": "花園院の御集。百首の詠を中心に四季・恋・雑・神祇の歌を収め、天文8年の校合奥書がある。"
+ },
  "editions": [
   {
    "pid": "1088203",
